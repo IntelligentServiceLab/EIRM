@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Complementarity-Aware Web API Recommendation via Explicit and Implicit Requirement Modeling
 
 Code for the paper "Complementarity-Aware Web API Recommendation via Explicit and Implicit Requirement Modeling".
@@ -49,3 +50,6 @@ python train.py --data-dir data --residual-text-csv data/llm/residual_text_llm.c
 ```
 
 The generated residual-text file is used by the explicit requirement modeling component in the default pipeline.
+=======
+# EIRM
+>>>>>>> 301a192fba3e468d31142a9437c4c8de27d38cd7
